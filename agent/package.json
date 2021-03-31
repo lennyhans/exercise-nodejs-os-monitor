@@ -1,0 +1,15 @@
+{
+  "name": "agent",
+  "version": "0.1.0",
+  "description": "Simple OS monitor agent",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LHAS",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "sqlite3": "^5.0.2",
+    "uuid": "^3.4.0"
+  }
+}
